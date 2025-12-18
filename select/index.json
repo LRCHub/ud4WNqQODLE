@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "八月の蛍",
+  "base_artist": "HACHI",
+  "createdAt": "2025-12-18T02:11:23.617539Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八月の蛍",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_八月の蛍_HACHI.txt"
+    }
+  ]
+}
